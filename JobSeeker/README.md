@@ -1,5 +1,5 @@
 # Hi and welcome to JobSeeker!
-## Instructions
+#### Instructions
 All of the necessary files to run the code will be in the src folder (Employer.java, Job.java, Seeker.java, and JobSeekerDriver.java)
 
 We will be providing additional .txt and .ser files which are completely optional if you want to begin the search with some premade profiles.
@@ -20,4 +20,4 @@ Instructions:
 
 Without further ado, enjoy the hunt for the perfect job or employee!
 
-## Summary
+#### Summary
