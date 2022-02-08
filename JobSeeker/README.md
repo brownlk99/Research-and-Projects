@@ -1,4 +1,4 @@
-Hi and welcome to JobSeeker!
+# Hi and welcome to JobSeeker!
 
 All of the necessary files to run the code will be in the src folder (Employer.java, Job.java, Seeker.java, and JobSeekerDriver.java)
 
