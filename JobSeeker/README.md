@@ -20,10 +20,10 @@ Instructions:
 Without further ado, enjoy the hunt for the perfect job or employee!
 
 #### Code
-- [Employer Class](https://github.com/brownlk99/Research-and-Projects/blob/main/JobSeeker/src/Employer.java)
-- [Job Class](https://github.com/brownlk99/Research-and-Projects/blob/main/JobSeeker/src/Job.java)
-- [Seeker Class](https://github.com/brownlk99/Research-and-Projects/blob/main/JobSeeker/src/Seeker.java)
-- [Driver](https://github.com/brownlk99/Research-and-Projects/blob/main/JobSeeker/src/JobSeekerDriver.java)
+- [Employer.java](https://github.com/brownlk99/Research-and-Projects/blob/main/JobSeeker/src/Employer.java)
+- [Job.java](https://github.com/brownlk99/Research-and-Projects/blob/main/JobSeeker/src/Job.java)
+- [Seeker.java](https://github.com/brownlk99/Research-and-Projects/blob/main/JobSeeker/src/Seeker.java)
+- [JobSeekerDriver.java](https://github.com/brownlk99/Research-and-Projects/blob/main/JobSeeker/src/JobSeekerDriver.java)
 
 #### Report
 - [Design & Implementation of Job Seeker](https://github.com/brownlk99/Research-and-Projects/blob/main/JobSeeker/Group%203%20Project.pdf)
