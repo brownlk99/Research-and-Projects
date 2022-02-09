@@ -1,6 +1,6 @@
 # Directory
 
-#### Code (.py)
+#### Code
 - [Pandemic Class](https://github.com/brownlk99/Research-and-Projects/blob/main/The%20Impact%20of%20a%20Contagion/pandemic_class.py)
 - [Pandemic Simulation](https://github.com/brownlk99/Research-and-Projects/blob/main/The%20Impact%20of%20a%20Contagion/pandemic_sim.py)
 
