@@ -25,4 +25,7 @@ Without further ado, enjoy the hunt for the perfect job or employee!
 - [Seeker Class](https://github.com/brownlk99/Research-and-Projects/blob/main/JobSeeker/src/Seeker.java)
 - [Driver](https://github.com/brownlk99/Research-and-Projects/blob/main/JobSeeker/src/JobSeekerDriver.java)
 
+#### Report
+- [Design & Implementation of Job Seeker](https://github.com/brownlk99/Research-and-Projects/blob/main/JobSeeker/Group%203%20Project.pdf)
+
 #### Summary
