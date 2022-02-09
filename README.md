@@ -9,4 +9,4 @@
 ##### R
 - [Auditory Perception and Recall](https://github.com/brownlk99/Research-and-Projects/tree/main/Auditory%20Perception%20and%20Recall)
 
-![alt text](https://github.com/brownlk99/Research-and-Projects/blob/main/Screenshot%20(29).png)
+![alt text](https://github.com/brownlk99/Research-and-Projects/blob/main/Screenshot%20(32).png)
