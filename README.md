@@ -8,5 +8,6 @@
 - [JobSeeker](https://github.com/brownlk99/Research-and-Projects/tree/main/JobSeeker)
 ##### R
 - [Auditory Perception and Recall](https://github.com/brownlk99/Research-and-Projects/tree/main/Auditory%20Perception%20and%20Recall)
+<br />
 
-![alt text](https://github.com/brownlk99/Research-and-Projects/blob/main/Screenshot%20(38).png)
+##### Take care and enjoy your stay!
