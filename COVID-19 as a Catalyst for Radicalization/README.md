@@ -1,6 +1,6 @@
 # Directory
 
-#### Code
+#### Code (.py)
 - [Individual Class](https://github.com/brownlk99/Research-and-Projects/blob/main/COVID-19%20as%20a%20Catalyst%20for%20Radicalization/radicalIndividual.py)
 - [Indoctrinator Class](https://github.com/brownlk99/Research-and-Projects/blob/main/COVID-19%20as%20a%20Catalyst%20for%20Radicalization/radicalIndoctrinator.py)
 - [Landscape Class](https://github.com/brownlk99/Research-and-Projects/blob/main/COVID-19%20as%20a%20Catalyst%20for%20Radicalization/radicalLandscape.py)
