@@ -1,7 +1,7 @@
 # Directory
 
 #### Code
-- [speedAndLearning.R](https://github.com/brownlk99/Research-and-Projects/blob/main/Auditory%20Perception%20and%20Recall/speedAndLearningTotal.csv)
+- [speedAndLearning.R](https://github.com/brownlk99/Research-and-Projects/blob/main/Auditory%20Perception%20and%20Recall/speedAndLearning.R)
 
 #### Data
 - [speedAndLearningTotal.csv](https://github.com/brownlk99/Research-and-Projects/blob/main/Auditory%20Perception%20and%20Recall/speedAndLearningTotal.csv)
