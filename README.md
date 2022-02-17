@@ -10,4 +10,4 @@
 - [Auditory Perception and Recall](https://github.com/brownlk99/Research-and-Projects/tree/main/Auditory%20Perception%20and%20Recall)
 <br />
 
-#### Take care and enjoy your stay!
+##### ***Take care and enjoy your stay!***
